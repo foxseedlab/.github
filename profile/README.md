@@ -7,6 +7,6 @@ X [@foxseed2314](https://x.com/foxseed2314) までご連絡ください。
 
 <div align="center">
 <small>
-© 2024 ふぉくしーど
+© 2025 ふぉくしーど
 </small>
 </div>
