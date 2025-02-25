@@ -1,7 +1,4 @@
-<picture>
-  <source srcset="../images/header.webp" type="image/webp">
-  <img src="../images/header.png" alt="ヘッダー">
-</picture>
+![ヘッダー](../images/header.webp)
 
 ふぉくしーどが中心となって製作したものを保管する場所。
 
