@@ -1,4 +1,4 @@
-![ヘッダー](../images/header.webp)
+![ヘッダー](../images/header.png)
 
 ふぉくしーどが中心となって製作したものを保管する場所。
 
